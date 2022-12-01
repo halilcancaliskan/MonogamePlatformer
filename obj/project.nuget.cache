@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdjlG/zjFmDBsm+KFOA86dov219LLmc/PdEunas6Sd8+LLIHBBTBV6jLyvBsZnZ2UKm/xV6YUbDQEGvY+e4R8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\halil\\OneDrive\\Bureau\\ANTBEN59\\MonoGame-Platformer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halil\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://teamcity.monogame.net/guestAuth/app/nuget/feed/_Root/default/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

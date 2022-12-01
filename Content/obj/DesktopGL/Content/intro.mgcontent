@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/halil/OneDrive/Bureau/ANTBEN59/Content/Générique de South Park en Français.mp3</SourceFile>
+  <SourceTime>2022-07-15T15:56:35+02:00</SourceTime>
+  <DestFile>C:/Users/halil/OneDrive/Bureau/ANTBEN59/Content/bin/DesktopGL/Content/intro.xnb</DestFile>
+  <DestTime>2022-08-06T23:54:06.3651396+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/halil/OneDrive/Bureau/ANTBEN59/Content/bin/DesktopGL/Content/intro.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
